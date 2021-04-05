@@ -58,4 +58,4 @@ This repository contains RISC-V Single Cycle 32 Bit Processor simulation on Logi
 
 ## **Circuit SnapShot**
 
-[RV32I Logisim Snapshot](pic/Single Cycle Logism.png)
+[RV32I Logisim Snapshot](pic/Single_Cycle_Logism.png)
